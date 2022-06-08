@@ -1,7 +1,7 @@
 # React / Next.js Take Home Test
 
 ## Introduction
-Welcome to frontend challenge! We are excited to see your coding skills in action within the Star Wars universe. 
+Welcome to the Busuu frontend challenge! We are excited to see your coding skills in action within the Star Wars universe. 
 
 ### Time
 We recommend spending around 1.5 hours on the whole task. We are not going to time you, but this is the general guideline we are giving regarding the completion.
@@ -13,7 +13,7 @@ At a glance, we are looking to gauge your knowledge across a similar stack which
 If you do not have time to finish it, please edit this `README` with a technical walkthrough of what you wanted to achieve. If any of the tasks are unclear you can reach out to us and we will clarify as soon as possible!
 
 ### Format of Submission:
-Please clone this repository, and name as you like. Send the link to the person you have been in touch with - remembering to make it public or share with the relevant users so as to allow our team to review it.
+Please clone this repository, and name as you like. When you are done, send the link to the Busuu representative you have been in touch with - remembering to make it public or share with the relevant users so as to allow our team to review it.
 
 ## Task
 Feel free to consume Star Wars data from either:
@@ -22,7 +22,7 @@ Feel free to consume Star Wars data from either:
 
 From this data, we want you to create a user experience that'll allow someone to interact with it. Details upcoming below.
 
-Wireframes are only a rough reference. You are free to create a UI that suits the data.
+Wireframes are only a rough reference. You are free to create a UI that suits the data and be as imaginative as you want!
 
 <br><br>
 
